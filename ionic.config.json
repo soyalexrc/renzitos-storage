@@ -1,0 +1,7 @@
+{
+  "name": "renzitos-storage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
