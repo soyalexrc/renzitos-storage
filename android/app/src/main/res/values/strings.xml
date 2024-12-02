@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">renzitos-storage</string>
+    <string name="title_activity_main">renzitos-storage</string>
+    <string name="package_name">com.alexrc.renzitosstorage</string>
+    <string name="custom_url_scheme">com.alexrc.renzitosstorage</string>
+</resources>
